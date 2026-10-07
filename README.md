@@ -283,7 +283,8 @@ This project is for **educational and awareness purposes**, using publicly avail
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=c4obotsspJE">
-    <img src="https://img.youtube.com/vi/c4obotsspJE/maxresdefault.jpg" width="600" alt="Watch the demo video">
+   <img width="1082" height="542" alt="05" src="https://github.com/user-attachments/assets/19decea7-4a0f-48b3-9ac2-672a311317e2" />
   </a>
 </p>
 <p align="center"><b>▶️ Click the image to watch the demo</b></p>
+
