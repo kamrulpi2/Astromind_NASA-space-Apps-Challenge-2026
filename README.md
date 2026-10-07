@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td width="300" valign="top">
-<img src="PASTE_YOUR_IMAGE_LINK_HERE" width="300" alt="NASA rovers">
+<img src="https://github.com/user-attachments/assets/e72f987f-c262-4b35-a976-f7b4c14e6b69" width="300" alt="NASA rovers">
 </td>
 <td valign="top">
 <h3><a href="https://www.spaceappschallenge.org/2026/challenges/">Abandoned but not Forgotten: Storytelling about NASA's Discarded Equipment on the Moon and Mars</a></h3>
