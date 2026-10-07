@@ -278,8 +278,8 @@ This project is for **educational and awareness purposes**, using publicly avail
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=c4obotsspJE">
-   <img width="1082" height="542" alt="05" src="https://github.com/user-attachments/assets/19decea7-4a0f-48b3-9ac2-672a311317e2" />
+  <img width="1920" height="1080" alt="cVHvE5zmiVDrzSPQ4qyXgxphwz7wx2zVQLQKUZJI" src="https://github.com/user-attachments/assets/9d6e7471-efe3-4cf4-9acc-9f2cd6d4ec94" />
   </a>
 </p>
-<p align="center"><b>▶️ Click the image for see m team video </b></p>
+<p align="center"><b>▶️ Click the image for see team videos </b></p>
 
