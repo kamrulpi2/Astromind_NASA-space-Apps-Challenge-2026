@@ -1,7 +1,29 @@
-# 🚀 Aqua Explorer: NASA's Hardware Across the Solar System
+<table>
+  <tr>
+    <td width="300" valign="top">
+      <img src="images/challenge.png" width="300" alt="NASA rovers">
+    </td>
+    <td valign="top">
+      <h3><a href="https://www.spaceappschallenge.org/">Abandoned but not Forgotten: Storytelling about NASA's Discarded Equipment on the Moon and Mars</a></h3>
 
-> An interactive educational game that lets school-age students explore the rovers, landers, instruments, and probes NASA has left across the Moon, Mars, and deep space.
+      <b>Event:</b> 2026 NASA Space Apps Challenge
+      <br><br>
 
+      <b>Difficulty:</b><br>
+      <img src="https://img.shields.io/badge/Intermediate-FF5A00?style=flat-square" alt="Intermediate">
+      <img src="https://img.shields.io/badge/Beginner%2FYouth-0B1230?style=flat-square" alt="Beginner/Youth">
+      <br><br>
+
+      <b>Subjects:</b><br>
+      <img src="https://img.shields.io/badge/Astrophysics-0B5BD3?style=flat-square" alt="Astrophysics">
+      <img src="https://img.shields.io/badge/Planets%20%26%20Moons-0B5BD3?style=flat-square" alt="Planets & Moons">
+      <img src="https://img.shields.io/badge/Space%20Exploration-0B5BD3?style=flat-square" alt="Space Exploration">
+      <br><br>
+
+      Since the 1960s, NASA has left hardware across the solar system, on the Moon, on Mars, and in deep space. From rovers and instruments that completed their science missions to probes still traveling away from Earth, this hardware varies widely in both its purpose and current level of functionality. Your challenge is to tell the story of some or all of this equipment that introduces school-age space enthusiasts to the hardware and the science it made possible.
+    </td>
+  </tr>
+</table>
 **Built for the NASA Space Apps Challenge 2026**
 
 [![Prototype](https://img.shields.io/badge/Prototype-Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/proto/OkwNxRuUFlf88F82MKg0HP/Nasa-space-app-challenge-2026?node-id=48-3&t=hzxmppfxNdOJ6Eyk-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A6&show-proto-sidebar=1)
