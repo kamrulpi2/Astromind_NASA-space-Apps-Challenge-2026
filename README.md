@@ -1,10 +1,12 @@
+## 🎯 The Challenge
+
 <table>
   <tr>
     <td width="300" valign="top">
       <img src="images/challenge.png" width="300" alt="NASA rovers">
     </td>
     <td valign="top">
-      <h3><a href="https://www.spaceappschallenge.org/">Abandoned but not Forgotten: Storytelling about NASA's Discarded Equipment on the Moon and Mars</a></h3>
+      <h3><a href="https://www.spaceappschallenge.org/2026/challenges/">Abandoned but not Forgotten: Storytelling about NASA's Discarded Equipment on the Moon and Mars</a></h3>
 
       <b>Event:</b> 2026 NASA Space Apps Challenge
       <br><br>
@@ -24,6 +26,16 @@
     </td>
   </tr>
 </table>
+
+### ✅ How Our Project Answers This Challenge
+
+| Challenge requirement | Our solution |
+|---|---|
+| Tell the story of NASA's hardware | Each mission is told as a short, visual story |
+| Cover the Moon, Mars, and deep space | Missions are grouped by these three destinations |
+| Explain purpose and current functionality | Every mission card shows its purpose and current status |
+| Show the science it made possible | Each mission lists its discoveries |
+| Reach school-age space enthusiasts | Game-based learning with challenges and quizzes |
 **Built for the NASA Space Apps Challenge 2026**
 
 [![Prototype](https://img.shields.io/badge/Prototype-Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/proto/OkwNxRuUFlf88F82MKg0HP/Nasa-space-app-challenge-2026?node-id=48-3&t=hzxmppfxNdOJ6Eyk-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A6&show-proto-sidebar=1)
