@@ -286,5 +286,5 @@ This project is for **educational and awareness purposes**, using publicly avail
    <img width="1082" height="542" alt="05" src="https://github.com/user-attachments/assets/19decea7-4a0f-48b3-9ac2-672a311317e2" />
   </a>
 </p>
-<p align="center"><b>▶️ Click the image to watch the demo</b></p>
+<p align="center"><b>▶️ Click the image for see m team video </b></p>
 
