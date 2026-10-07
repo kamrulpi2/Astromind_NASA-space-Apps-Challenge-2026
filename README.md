@@ -12,6 +12,8 @@
 ---
 
 <h2 align="center">📸 Project Screenshots</h2>
+<img width="1162" height="601" alt="Screenshot 2026-10-07 192007" src="https://github.com/user-attachments/assets/55b95b00-da94-4e7e-9ce6-29249fbafa8f" />
+
 
 <table align="center">
   <tr>
