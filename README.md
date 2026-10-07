@@ -1,32 +1,26 @@
-## 🎯 The Challenge
-
 <table>
-  <tr>
-    <td width="300" valign="top">
-      <img src="images/challenge.png" width="300" alt="NASA rovers">
-    </td>
-    <td valign="top">
-      <h3><a href="https://www.spaceappschallenge.org/2026/challenges/">Abandoned but not Forgotten: Storytelling about NASA's Discarded Equipment on the Moon and Mars</a></h3>
-
-      <b>Event:</b> 2026 NASA Space Apps Challenge
-      <br><br>
-
-      <b>Difficulty:</b><br>
-      <img src="https://img.shields.io/badge/Intermediate-FF5A00?style=flat-square" alt="Intermediate">
-      <img src="https://img.shields.io/badge/Beginner%2FYouth-0B1230?style=flat-square" alt="Beginner/Youth">
-      <br><br>
-
-      <b>Subjects:</b><br>
-      <img src="https://img.shields.io/badge/Astrophysics-0B5BD3?style=flat-square" alt="Astrophysics">
-      <img src="https://img.shields.io/badge/Planets%20%26%20Moons-0B5BD3?style=flat-square" alt="Planets & Moons">
-      <img src="https://img.shields.io/badge/Space%20Exploration-0B5BD3?style=flat-square" alt="Space Exploration">
-      <br><br>
-
-      Since the 1960s, NASA has left hardware across the solar system, on the Moon, on Mars, and in deep space. From rovers and instruments that completed their science missions to probes still traveling away from Earth, this hardware varies widely in both its purpose and current level of functionality. Your challenge is to tell the story of some or all of this equipment that introduces school-age space enthusiasts to the hardware and the science it made possible.
-    </td>
-  </tr>
+<tr>
+<td width="300" valign="top">
+<img src="PASTE_YOUR_IMAGE_LINK_HERE" width="300" alt="NASA rovers">
+</td>
+<td valign="top">
+<h3><a href="https://www.spaceappschallenge.org/2026/challenges/">Abandoned but not Forgotten: Storytelling about NASA's Discarded Equipment on the Moon and Mars</a></h3>
+<b>Event</b><br>
+2026 NASA Space Apps Challenge
+<br><br>
+<b>Difficulty</b><br>
+<img src="https://img.shields.io/badge/Intermediate-FF5A00?style=flat-square" alt="Intermediate">
+<img src="https://img.shields.io/badge/Beginner%2FYouth-0B1230?style=flat-square" alt="Beginner/Youth">
+<br><br>
+<b>Subjects</b><br>
+<img src="https://img.shields.io/badge/Astrophysics-0B5BD3?style=flat-square" alt="Astrophysics">
+<img src="https://img.shields.io/badge/Planets%20%26%20Moons-0B5BD3?style=flat-square" alt="Planets & Moons">
+<img src="https://img.shields.io/badge/Space%20Exploration-0B5BD3?style=flat-square" alt="Space Exploration">
+<br><br>
+Since the 1960s, NASA has left hardware across the solar system, on the Moon, on Mars, and in deep space. From rovers and instruments that completed their science missions to probes still traveling away from Earth, this hardware varies widely in both its purpose and current level of functionality. Your challenge is to tell the story of some or all of this equipment that introduces school-age space enthusiasts to the hardware and the science it made possible.
+</td>
+</tr>
 </table>
-
 
 ### ✅ How Our Project Answers This Challenge
 
