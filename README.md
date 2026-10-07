@@ -281,6 +281,9 @@ This project is for **educational and awareness purposes**, using publicly avail
 
 ---
 
-<a href="https://www.youtube.com/watch?v=uddm93E3stE">
-  <img src="https://img.youtube.com/vi/uddm93E3stE/hqdefault.jpg" width="600">
-</a>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=c4obotsspJE">
+    <img src="https://img.youtube.com/vi/c4obotsspJE/maxresdefault.jpg" width="600" alt="Watch the demo video">
+  </a>
+</p>
+<p align="center"><b>▶️ Click the image to watch the demo</b></p>
