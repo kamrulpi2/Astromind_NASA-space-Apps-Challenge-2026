@@ -32,7 +32,7 @@
   <tr>
     <td><img width="330" src="https://github.com/user-attachments/assets/1c05885b-7d59-4f7e-9398-d8ad8d953405" alt="Screen 10" /></td>
     <td><img width="330" src="https://github.com/user-attachments/assets/c0bd87c4-f596-4aac-ae6c-be6a20b59cbb" alt="Screen 11" /></td>
-   <td><img width="330" height="566" alt="Screenshot 2026-10-07 192251" src="https://github.com/user-attachments/assets/29dad918-d88d-4461-a123-50b109c67574"alt="Screen 12" /></td>
+   <td><img width="330" src="https://github.com/user-attachments/assets/29dad918-d88d-4461-a123-50b109c67574" alt="Screen 12" /></td>
     <td></td>
   </tr>
 </table>
