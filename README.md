@@ -232,18 +232,13 @@ We used AI tools to support design and content production. All mission facts wer
 
 ## 🚀 Getting Started
 
-### Try the prototype
+### Try OUR Game
+
 👉 [Open the interactive Figma prototype](https://www.figma.com/proto/OkwNxRuUFlf88F82MKg0HP/Nasa-space-app-challenge-2026?node-id=48-3&t=hzxmppfxNdOJ6Eyk-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A6&show-proto-sidebar=1)
 
-### Watch the demo
+### Watch the video
 ▶️ [Project demo on YouTube](https://www.youtube.com/watch?v=c4obotsspJE)
 
-### Run locally
-```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
-# TODO: add install and run commands for your stack
-```
 
 ## 🎁 Benefits
 
