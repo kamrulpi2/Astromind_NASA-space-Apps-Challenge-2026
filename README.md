@@ -22,15 +22,6 @@ Since the 1960s, NASA has left hardware across the solar system, on the Moon, on
 </tr>
 </table>
 
-### ✅ How Our Project Answers This Challenge
-
-| Challenge requirement | Our solution |
-|---|---|
-| Tell the story of NASA's hardware | Each mission is told as a short, visual story |
-| Cover the Moon, Mars, and deep space | Missions are grouped by these three destinations |
-| Explain purpose and current functionality | Every mission card shows its purpose and current status |
-| Show the science it made possible | Each mission lists its discoveries |
-| Reach school-age space enthusiasts | Game-based learning with challenges and quizzes |
 **Built for the NASA Space Apps Challenge 2026**
 
 [![Prototype](https://img.shields.io/badge/Prototype-Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/proto/OkwNxRuUFlf88F82MKg0HP/Nasa-space-app-challenge-2026?node-id=48-3&t=hzxmppfxNdOJ6Eyk-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A6&show-proto-sidebar=1)
